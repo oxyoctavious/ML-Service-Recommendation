@@ -1,0 +1,1001 @@
+Service_ID,Service_Name,Target_Business_Type,Price_Category,Language_Support,Location_Area,Description,Match_Quality
+1001,Payroll Processing,e-commerce,high,both,delhi,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1002,Financial Audit,restaurant,high,both,remote,Independent annual financial statement verification and compliance check.,Low
+1003,Business Registration,restaurant,low,hindi,remote,Complete guidance and filing for establishing a new business entity.,Low
+1004,Advanced Tax Filing,restaurant,medium,regional,remote,Comprehensive annual tax submission and financial planning.,Medium
+1005,SEO Optimization,tech startup,high,regional,delhi,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1006,Social Media Setup,retail,medium,both,mumbai,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1007,Financial Audit,e-commerce,high,regional,delhi,Independent annual financial statement verification and compliance check.,Medium
+1008,SEO Optimization,tech startup,medium,regional,delhi,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1009,Contract Review,retail,premium,hindi,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1010,Basic Accounting,freelancer,premium,english,bengaluru,Simple monthly bookkeeping and tax preparation for freelancer.,High
+1011,Financial Audit,clinic,high,hindi,remote,Independent annual financial statement verification and compliance check.,Low
+1012,SEO Optimization,retail,low,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1013,Financial Audit,retail,low,english,remote,Independent annual financial statement verification and compliance check.,High
+1014,Social Media Setup,clinic,medium,hindi,chennai,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1015,Financial Audit,e-commerce,premium,hindi,remote,Independent annual financial statement verification and compliance check.,Medium
+1016,Digital Marketing Strategy,tech startup,medium,regional,remote,Development of a 6-month online marketing and advertisement plan.,Medium
+1017,Customer Support Setup,clinic,high,hindi,mumbai,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1018,Customer Support Setup,tech startup,low,regional,mumbai,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1019,Social Media Setup,clinic,high,both,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1020,Business Registration,tech startup,premium,hindi,remote,Complete guidance and filing for establishing a new business entity.,Low
+1021,SEO Optimization,tech startup,high,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1022,Advanced Tax Filing,retail,high,both,delhi,Comprehensive annual tax submission and financial planning.,Medium
+1023,Website Design (Basic),freelancer,low,regional,remote,Single-page website design with core functionality and contact form.,Medium
+1024,Customer Support Setup,retail,low,regional,delhi,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1025,Basic Accounting,freelancer,medium,both,remote,Simple monthly bookkeeping and tax preparation for freelancer.,High
+1026,Contract Review,freelancer,medium,english,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1027,Social Media Setup,e-commerce,premium,english,bengaluru,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1028,Business Registration,restaurant,medium,both,delhi,Complete guidance and filing for establishing a new business entity.,High
+1029,Financial Audit,freelancer,low,hindi,chennai,Independent annual financial statement verification and compliance check.,Medium
+1030,Digital Marketing Strategy,freelancer,low,regional,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1031,Financial Audit,e-commerce,high,hindi,remote,Independent annual financial statement verification and compliance check.,High
+1032,Website Design (Basic),restaurant,premium,both,remote,Single-page website design with core functionality and contact form.,Low
+1033,Advanced Tax Filing,freelancer,high,english,remote,Comprehensive annual tax submission and financial planning.,Low
+1034,Social Media Setup,clinic,medium,hindi,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1035,Digital Marketing Strategy,clinic,medium,hindi,remote,Development of a 6-month online marketing and advertisement plan.,Medium
+1036,Inventory Management,freelancer,low,both,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1037,Financial Audit,e-commerce,low,english,mumbai,Independent annual financial statement verification and compliance check.,Low
+1038,Social Media Setup,retail,low,english,mumbai,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1039,Advanced Tax Filing,freelancer,premium,hindi,remote,Comprehensive annual tax submission and financial planning.,Medium
+1040,Business Registration,restaurant,premium,english,delhi,Complete guidance and filing for establishing a new business entity.,Low
+1041,Advanced Tax Filing,freelancer,premium,both,remote,Comprehensive annual tax submission and financial planning.,High
+1042,Inventory Management,e-commerce,high,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1043,Digital Marketing Strategy,tech startup,medium,english,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1044,Payroll Processing,retail,high,english,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1045,Basic Accounting,freelancer,medium,hindi,remote,Simple monthly bookkeeping and tax preparation for freelancer.,High
+1046,Basic Accounting,tech startup,medium,hindi,remote,Simple monthly bookkeeping and tax preparation for tech startup.,Medium
+1047,Customer Support Setup,e-commerce,high,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1048,Contract Review,e-commerce,medium,both,delhi,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1049,Financial Audit,restaurant,high,english,chennai,Independent annual financial statement verification and compliance check.,High
+1050,SEO Optimization,restaurant,premium,regional,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1051,Advanced Tax Filing,tech startup,low,both,remote,Comprehensive annual tax submission and financial planning.,High
+1052,Digital Marketing Strategy,tech startup,low,english,remote,Development of a 6-month online marketing and advertisement plan.,Medium
+1053,Basic Accounting,retail,medium,hindi,remote,Simple monthly bookkeeping and tax preparation for retail.,Medium
+1054,Payroll Processing,tech startup,medium,both,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1055,Website Design (Basic),restaurant,premium,english,chennai,Single-page website design with core functionality and contact form.,High
+1056,Inventory Management,restaurant,premium,english,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1057,Customer Support Setup,tech startup,high,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1058,Payroll Processing,e-commerce,medium,english,bengaluru,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1059,Customer Support Setup,e-commerce,medium,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1060,Inventory Management,tech startup,medium,both,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1061,Financial Audit,tech startup,low,english,remote,Independent annual financial statement verification and compliance check.,High
+1062,SEO Optimization,retail,medium,regional,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1063,Business Registration,tech startup,high,both,remote,Complete guidance and filing for establishing a new business entity.,High
+1064,Website Design (Basic),restaurant,premium,regional,bengaluru,Single-page website design with core functionality and contact form.,High
+1065,Social Media Setup,clinic,high,both,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1066,Contract Review,clinic,medium,hindi,chennai,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1067,Payroll Processing,retail,medium,regional,bengaluru,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1068,Customer Support Setup,clinic,low,hindi,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1069,Website Design (Basic),retail,high,hindi,delhi,Single-page website design with core functionality and contact form.,Low
+1070,Financial Audit,clinic,premium,english,chennai,Independent annual financial statement verification and compliance check.,High
+1071,Financial Audit,retail,medium,both,remote,Independent annual financial statement verification and compliance check.,Medium
+1072,Basic Accounting,retail,medium,both,remote,Simple monthly bookkeeping and tax preparation for retail.,Medium
+1073,Social Media Setup,clinic,medium,hindi,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1074,Customer Support Setup,e-commerce,medium,english,chennai,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1075,Website Design (Basic),retail,medium,both,bengaluru,Single-page website design with core functionality and contact form.,Low
+1076,Payroll Processing,retail,medium,both,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1077,Payroll Processing,freelancer,low,hindi,bengaluru,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1078,Digital Marketing Strategy,retail,medium,hindi,chennai,Development of a 6-month online marketing and advertisement plan.,Low
+1079,Inventory Management,restaurant,premium,english,delhi,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1080,Customer Support Setup,freelancer,medium,english,chennai,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1081,Business Registration,tech startup,premium,regional,remote,Complete guidance and filing for establishing a new business entity.,High
+1082,Inventory Management,clinic,premium,both,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1083,Business Registration,clinic,medium,regional,remote,Complete guidance and filing for establishing a new business entity.,High
+1084,Basic Accounting,retail,high,regional,remote,Simple monthly bookkeeping and tax preparation for retail.,Medium
+1085,Website Design (Basic),tech startup,low,english,bengaluru,Single-page website design with core functionality and contact form.,Low
+1086,Inventory Management,retail,medium,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1087,Advanced Tax Filing,restaurant,medium,english,delhi,Comprehensive annual tax submission and financial planning.,Medium
+1088,Website Design (Basic),retail,high,regional,bengaluru,Single-page website design with core functionality and contact form.,High
+1089,Social Media Setup,freelancer,low,english,mumbai,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1090,Payroll Processing,e-commerce,premium,english,chennai,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1091,Payroll Processing,clinic,low,both,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1092,Customer Support Setup,clinic,high,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1093,Customer Support Setup,clinic,high,english,delhi,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1094,Contract Review,freelancer,low,hindi,chennai,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1095,Payroll Processing,retail,premium,hindi,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1096,Financial Audit,tech startup,low,english,chennai,Independent annual financial statement verification and compliance check.,Medium
+1097,Basic Accounting,restaurant,low,regional,remote,Simple monthly bookkeeping and tax preparation for restaurant.,High
+1098,Advanced Tax Filing,e-commerce,premium,hindi,mumbai,Comprehensive annual tax submission and financial planning.,High
+1099,Website Design (Basic),e-commerce,medium,hindi,remote,Single-page website design with core functionality and contact form.,Low
+1100,Financial Audit,tech startup,medium,english,mumbai,Independent annual financial statement verification and compliance check.,Medium
+1101,Website Design (Basic),restaurant,premium,hindi,mumbai,Single-page website design with core functionality and contact form.,Low
+1102,Basic Accounting,retail,high,both,remote,Simple monthly bookkeeping and tax preparation for retail.,High
+1103,Payroll Processing,retail,high,english,chennai,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1104,Business Registration,freelancer,medium,english,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1105,Contract Review,tech startup,high,regional,bengaluru,Legal review and drafting of standard client/vendor contracts and agreements.,Low
+1106,SEO Optimization,retail,premium,english,chennai,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1107,Basic Accounting,restaurant,premium,regional,delhi,Simple monthly bookkeeping and tax preparation for restaurant.,High
+1108,Digital Marketing Strategy,retail,premium,english,bengaluru,Development of a 6-month online marketing and advertisement plan.,High
+1109,Website Design (Basic),clinic,medium,both,mumbai,Single-page website design with core functionality and contact form.,Medium
+1110,Payroll Processing,clinic,premium,both,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1111,Advanced Tax Filing,freelancer,low,regional,delhi,Comprehensive annual tax submission and financial planning.,Medium
+1112,Basic Accounting,tech startup,low,regional,remote,Simple monthly bookkeeping and tax preparation for tech startup.,High
+1113,Business Registration,e-commerce,medium,english,remote,Complete guidance and filing for establishing a new business entity.,High
+1114,Social Media Setup,restaurant,low,hindi,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1115,Customer Support Setup,clinic,high,regional,bengaluru,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1116,Business Registration,retail,medium,english,remote,Complete guidance and filing for establishing a new business entity.,High
+1117,Financial Audit,freelancer,premium,regional,mumbai,Independent annual financial statement verification and compliance check.,Medium
+1118,Basic Accounting,retail,high,english,remote,Simple monthly bookkeeping and tax preparation for retail.,High
+1119,Website Design (Basic),freelancer,premium,both,mumbai,Single-page website design with core functionality and contact form.,High
+1120,Basic Accounting,tech startup,medium,english,remote,Simple monthly bookkeeping and tax preparation for tech startup.,Low
+1121,Website Design (Basic),restaurant,low,english,remote,Single-page website design with core functionality and contact form.,Medium
+1122,Payroll Processing,retail,premium,both,mumbai,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1123,Advanced Tax Filing,clinic,premium,hindi,remote,Comprehensive annual tax submission and financial planning.,High
+1124,Digital Marketing Strategy,freelancer,low,regional,remote,Development of a 6-month online marketing and advertisement plan.,High
+1125,Payroll Processing,clinic,medium,hindi,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1126,Business Registration,clinic,high,english,chennai,Complete guidance and filing for establishing a new business entity.,Medium
+1127,Business Registration,freelancer,high,regional,mumbai,Complete guidance and filing for establishing a new business entity.,Medium
+1128,SEO Optimization,restaurant,premium,regional,mumbai,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1129,Digital Marketing Strategy,tech startup,premium,english,chennai,Development of a 6-month online marketing and advertisement plan.,High
+1130,Financial Audit,tech startup,premium,english,remote,Independent annual financial statement verification and compliance check.,High
+1131,Financial Audit,e-commerce,premium,hindi,remote,Independent annual financial statement verification and compliance check.,High
+1132,SEO Optimization,clinic,high,regional,chennai,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1133,SEO Optimization,e-commerce,premium,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1134,Customer Support Setup,tech startup,low,hindi,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1135,Digital Marketing Strategy,e-commerce,premium,hindi,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1136,Advanced Tax Filing,clinic,high,regional,remote,Comprehensive annual tax submission and financial planning.,Medium
+1137,Website Design (Basic),e-commerce,low,regional,delhi,Single-page website design with core functionality and contact form.,High
+1138,Contract Review,e-commerce,high,hindi,chennai,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1139,Website Design (Basic),retail,low,both,remote,Single-page website design with core functionality and contact form.,High
+1140,Contract Review,restaurant,high,both,bengaluru,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1141,Digital Marketing Strategy,tech startup,medium,regional,remote,Development of a 6-month online marketing and advertisement plan.,High
+1142,SEO Optimization,freelancer,low,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1143,Basic Accounting,clinic,premium,english,mumbai,Simple monthly bookkeeping and tax preparation for clinic.,Medium
+1144,Social Media Setup,freelancer,low,regional,chennai,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1145,Basic Accounting,e-commerce,low,regional,remote,Simple monthly bookkeeping and tax preparation for e-commerce.,Low
+1146,Business Registration,e-commerce,premium,hindi,delhi,Complete guidance and filing for establishing a new business entity.,Medium
+1147,Business Registration,clinic,medium,english,remote,Complete guidance and filing for establishing a new business entity.,High
+1148,Customer Support Setup,freelancer,medium,both,bengaluru,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1149,Customer Support Setup,retail,premium,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1150,Digital Marketing Strategy,retail,high,english,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1151,Business Registration,freelancer,low,both,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1152,Financial Audit,tech startup,high,regional,remote,Independent annual financial statement verification and compliance check.,Medium
+1153,Social Media Setup,restaurant,low,both,delhi,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1154,Financial Audit,tech startup,medium,hindi,remote,Independent annual financial statement verification and compliance check.,Low
+1155,SEO Optimization,clinic,low,english,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1156,Payroll Processing,retail,medium,both,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1157,Website Design (Basic),restaurant,high,both,remote,Single-page website design with core functionality and contact form.,High
+1158,Basic Accounting,freelancer,premium,both,remote,Simple monthly bookkeeping and tax preparation for freelancer.,Low
+1159,Financial Audit,clinic,high,english,remote,Independent annual financial statement verification and compliance check.,Medium
+1160,Social Media Setup,clinic,premium,english,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1161,SEO Optimization,retail,medium,regional,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1162,Inventory Management,tech startup,medium,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1163,Digital Marketing Strategy,e-commerce,premium,english,chennai,Development of a 6-month online marketing and advertisement plan.,High
+1164,Advanced Tax Filing,e-commerce,low,regional,chennai,Comprehensive annual tax submission and financial planning.,High
+1165,Inventory Management,restaurant,high,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1166,Inventory Management,retail,medium,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1167,Basic Accounting,freelancer,low,hindi,bengaluru,Simple monthly bookkeeping and tax preparation for freelancer.,High
+1168,Advanced Tax Filing,retail,high,hindi,remote,Comprehensive annual tax submission and financial planning.,High
+1169,Advanced Tax Filing,e-commerce,medium,regional,remote,Comprehensive annual tax submission and financial planning.,High
+1170,Basic Accounting,retail,high,both,remote,Simple monthly bookkeeping and tax preparation for retail.,High
+1171,Contract Review,retail,low,english,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1172,Financial Audit,clinic,high,regional,remote,Independent annual financial statement verification and compliance check.,Low
+1173,Customer Support Setup,clinic,low,both,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1174,Inventory Management,tech startup,premium,english,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1175,Website Design (Basic),clinic,high,english,remote,Single-page website design with core functionality and contact form.,High
+1176,Payroll Processing,freelancer,low,regional,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1177,Basic Accounting,clinic,high,english,remote,Simple monthly bookkeeping and tax preparation for clinic.,Medium
+1178,Digital Marketing Strategy,restaurant,high,english,remote,Development of a 6-month online marketing and advertisement plan.,High
+1179,Website Design (Basic),tech startup,premium,english,remote,Single-page website design with core functionality and contact form.,High
+1180,Business Registration,restaurant,high,hindi,delhi,Complete guidance and filing for establishing a new business entity.,Medium
+1181,Digital Marketing Strategy,tech startup,premium,english,chennai,Development of a 6-month online marketing and advertisement plan.,Medium
+1182,Website Design (Basic),e-commerce,low,hindi,remote,Single-page website design with core functionality and contact form.,Medium
+1183,Social Media Setup,retail,high,regional,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1184,Customer Support Setup,retail,low,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1185,Customer Support Setup,clinic,low,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1186,Digital Marketing Strategy,restaurant,premium,english,chennai,Development of a 6-month online marketing and advertisement plan.,Medium
+1187,Payroll Processing,freelancer,low,hindi,mumbai,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1188,Contract Review,retail,high,hindi,mumbai,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1189,Contract Review,clinic,medium,english,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1190,SEO Optimization,restaurant,premium,english,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1191,Contract Review,clinic,low,hindi,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1192,Basic Accounting,clinic,low,both,remote,Simple monthly bookkeeping and tax preparation for clinic.,Low
+1193,Customer Support Setup,e-commerce,high,hindi,bengaluru,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1194,Financial Audit,freelancer,premium,english,delhi,Independent annual financial statement verification and compliance check.,Medium
+1195,Digital Marketing Strategy,e-commerce,low,regional,remote,Development of a 6-month online marketing and advertisement plan.,Medium
+1196,Social Media Setup,clinic,premium,english,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1197,Contract Review,e-commerce,premium,regional,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1198,SEO Optimization,restaurant,premium,both,mumbai,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1199,Payroll Processing,freelancer,low,english,delhi,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1200,Business Registration,freelancer,low,regional,chennai,Complete guidance and filing for establishing a new business entity.,Medium
+1201,Basic Accounting,retail,low,regional,mumbai,Simple monthly bookkeeping and tax preparation for retail.,High
+1202,Contract Review,freelancer,medium,regional,mumbai,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1203,Basic Accounting,e-commerce,low,regional,remote,Simple monthly bookkeeping and tax preparation for e-commerce.,Medium
+1204,Website Design (Basic),restaurant,low,both,mumbai,Single-page website design with core functionality and contact form.,Medium
+1205,Customer Support Setup,retail,premium,both,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1206,Contract Review,freelancer,low,regional,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1207,Digital Marketing Strategy,tech startup,high,english,mumbai,Development of a 6-month online marketing and advertisement plan.,Low
+1208,Website Design (Basic),clinic,low,regional,remote,Single-page website design with core functionality and contact form.,Medium
+1209,Inventory Management,freelancer,premium,both,mumbai,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1210,Social Media Setup,restaurant,high,english,chennai,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1211,Financial Audit,tech startup,premium,english,chennai,Independent annual financial statement verification and compliance check.,Medium
+1212,Contract Review,retail,high,regional,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1213,Business Registration,tech startup,premium,english,chennai,Complete guidance and filing for establishing a new business entity.,Low
+1214,Advanced Tax Filing,tech startup,high,both,remote,Comprehensive annual tax submission and financial planning.,Medium
+1215,Social Media Setup,retail,low,hindi,bengaluru,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1216,Business Registration,restaurant,low,hindi,remote,Complete guidance and filing for establishing a new business entity.,High
+1217,Customer Support Setup,freelancer,medium,hindi,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1218,Business Registration,e-commerce,high,regional,bengaluru,Complete guidance and filing for establishing a new business entity.,Medium
+1219,SEO Optimization,freelancer,premium,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1220,SEO Optimization,freelancer,medium,hindi,delhi,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1221,Customer Support Setup,freelancer,premium,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1222,Financial Audit,retail,high,both,chennai,Independent annual financial statement verification and compliance check.,Medium
+1223,Customer Support Setup,freelancer,high,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1224,Contract Review,freelancer,low,both,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1225,Contract Review,e-commerce,premium,regional,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1226,SEO Optimization,clinic,medium,english,bengaluru,Advanced search engine ranking strategy and implementation for product visibility.,High
+1227,Social Media Setup,clinic,low,hindi,chennai,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1228,Business Registration,retail,low,english,remote,Complete guidance and filing for establishing a new business entity.,High
+1229,Contract Review,restaurant,premium,english,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1230,Advanced Tax Filing,e-commerce,premium,regional,remote,Comprehensive annual tax submission and financial planning.,High
+1231,Inventory Management,e-commerce,high,english,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1232,Business Registration,tech startup,low,english,bengaluru,Complete guidance and filing for establishing a new business entity.,High
+1233,Financial Audit,tech startup,medium,hindi,remote,Independent annual financial statement verification and compliance check.,High
+1234,Business Registration,freelancer,premium,regional,chennai,Complete guidance and filing for establishing a new business entity.,Low
+1235,Advanced Tax Filing,retail,medium,both,delhi,Comprehensive annual tax submission and financial planning.,Medium
+1236,Digital Marketing Strategy,retail,premium,hindi,remote,Development of a 6-month online marketing and advertisement plan.,High
+1237,Customer Support Setup,freelancer,premium,regional,delhi,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1238,Business Registration,retail,high,regional,bengaluru,Complete guidance and filing for establishing a new business entity.,Low
+1239,Contract Review,e-commerce,low,hindi,chennai,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1240,Business Registration,clinic,premium,hindi,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1241,Business Registration,restaurant,high,both,remote,Complete guidance and filing for establishing a new business entity.,High
+1242,Website Design (Basic),tech startup,medium,english,remote,Single-page website design with core functionality and contact form.,Low
+1243,SEO Optimization,restaurant,premium,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1244,Social Media Setup,retail,premium,english,chennai,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1245,SEO Optimization,tech startup,low,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1246,Digital Marketing Strategy,e-commerce,premium,regional,delhi,Development of a 6-month online marketing and advertisement plan.,Medium
+1247,Basic Accounting,e-commerce,medium,hindi,remote,Simple monthly bookkeeping and tax preparation for e-commerce.,Low
+1248,Website Design (Basic),freelancer,premium,english,remote,Single-page website design with core functionality and contact form.,Low
+1249,Inventory Management,retail,high,both,bengaluru,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1250,Advanced Tax Filing,restaurant,premium,regional,remote,Comprehensive annual tax submission and financial planning.,High
+1251,Basic Accounting,tech startup,medium,english,chennai,Simple monthly bookkeeping and tax preparation for tech startup.,Low
+1252,Advanced Tax Filing,e-commerce,premium,both,remote,Comprehensive annual tax submission and financial planning.,High
+1253,Financial Audit,freelancer,medium,hindi,mumbai,Independent annual financial statement verification and compliance check.,Low
+1254,Basic Accounting,e-commerce,premium,regional,mumbai,Simple monthly bookkeeping and tax preparation for e-commerce.,Medium
+1255,Contract Review,clinic,premium,regional,mumbai,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1256,Customer Support Setup,clinic,high,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1257,Inventory Management,retail,low,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1258,Payroll Processing,tech startup,high,english,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1259,Advanced Tax Filing,e-commerce,high,both,remote,Comprehensive annual tax submission and financial planning.,High
+1260,Customer Support Setup,tech startup,premium,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1261,Customer Support Setup,tech startup,premium,english,delhi,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1262,Inventory Management,clinic,low,english,delhi,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1263,Financial Audit,clinic,high,hindi,bengaluru,Independent annual financial statement verification and compliance check.,Medium
+1264,Inventory Management,e-commerce,low,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1265,SEO Optimization,retail,premium,both,chennai,Advanced search engine ranking strategy and implementation for product visibility.,High
+1266,Basic Accounting,retail,high,regional,mumbai,Simple monthly bookkeeping and tax preparation for retail.,High
+1267,Social Media Setup,restaurant,low,hindi,chennai,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1268,Website Design (Basic),restaurant,premium,regional,remote,Single-page website design with core functionality and contact form.,High
+1269,Inventory Management,restaurant,high,english,bengaluru,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1270,Contract Review,clinic,premium,english,mumbai,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1271,Digital Marketing Strategy,restaurant,premium,both,bengaluru,Development of a 6-month online marketing and advertisement plan.,Medium
+1272,Inventory Management,freelancer,low,english,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1273,Website Design (Basic),e-commerce,premium,hindi,mumbai,Single-page website design with core functionality and contact form.,High
+1274,Digital Marketing Strategy,clinic,premium,both,delhi,Development of a 6-month online marketing and advertisement plan.,High
+1275,Customer Support Setup,clinic,medium,english,mumbai,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1276,Website Design (Basic),e-commerce,premium,english,remote,Single-page website design with core functionality and contact form.,Low
+1277,Social Media Setup,e-commerce,medium,hindi,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1278,Customer Support Setup,restaurant,premium,both,delhi,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1279,Website Design (Basic),retail,high,english,remote,Single-page website design with core functionality and contact form.,Medium
+1280,Website Design (Basic),clinic,high,english,remote,Single-page website design with core functionality and contact form.,High
+1281,Advanced Tax Filing,e-commerce,low,hindi,remote,Comprehensive annual tax submission and financial planning.,High
+1282,SEO Optimization,retail,low,both,mumbai,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1283,Inventory Management,e-commerce,high,hindi,delhi,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1284,Advanced Tax Filing,restaurant,high,hindi,mumbai,Comprehensive annual tax submission and financial planning.,Low
+1285,Website Design (Basic),clinic,medium,hindi,remote,Single-page website design with core functionality and contact form.,Medium
+1286,Business Registration,clinic,medium,regional,delhi,Complete guidance and filing for establishing a new business entity.,Medium
+1287,Inventory Management,e-commerce,premium,hindi,chennai,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1288,Basic Accounting,restaurant,medium,both,remote,Simple monthly bookkeeping and tax preparation for restaurant.,Medium
+1289,Payroll Processing,freelancer,medium,english,chennai,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1290,Digital Marketing Strategy,tech startup,premium,both,bengaluru,Development of a 6-month online marketing and advertisement plan.,Medium
+1291,Basic Accounting,freelancer,premium,hindi,remote,Simple monthly bookkeeping and tax preparation for freelancer.,Low
+1292,Social Media Setup,clinic,medium,english,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1293,Social Media Setup,freelancer,premium,hindi,delhi,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1294,Financial Audit,clinic,premium,regional,bengaluru,Independent annual financial statement verification and compliance check.,High
+1295,Customer Support Setup,restaurant,low,hindi,chennai,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1296,Financial Audit,restaurant,low,both,remote,Independent annual financial statement verification and compliance check.,Medium
+1297,Business Registration,restaurant,medium,regional,bengaluru,Complete guidance and filing for establishing a new business entity.,Low
+1298,Advanced Tax Filing,retail,high,hindi,remote,Comprehensive annual tax submission and financial planning.,High
+1299,SEO Optimization,restaurant,medium,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1300,Website Design (Basic),tech startup,low,both,remote,Single-page website design with core functionality and contact form.,High
+1301,Payroll Processing,restaurant,high,english,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1302,Advanced Tax Filing,restaurant,premium,both,remote,Comprehensive annual tax submission and financial planning.,High
+1303,Contract Review,tech startup,medium,regional,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1304,Website Design (Basic),e-commerce,low,both,remote,Single-page website design with core functionality and contact form.,Medium
+1305,Payroll Processing,restaurant,high,english,mumbai,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1306,Contract Review,tech startup,high,both,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1307,Website Design (Basic),restaurant,high,both,bengaluru,Single-page website design with core functionality and contact form.,High
+1308,Business Registration,retail,medium,both,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1309,Payroll Processing,tech startup,medium,english,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1310,Business Registration,freelancer,low,regional,remote,Complete guidance and filing for establishing a new business entity.,High
+1311,Inventory Management,retail,low,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1312,Social Media Setup,tech startup,premium,regional,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1313,Inventory Management,retail,medium,both,delhi,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1314,Basic Accounting,clinic,premium,hindi,remote,Simple monthly bookkeeping and tax preparation for clinic.,Medium
+1315,Customer Support Setup,tech startup,premium,english,chennai,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1316,Inventory Management,retail,high,both,bengaluru,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1317,Advanced Tax Filing,tech startup,high,regional,remote,Comprehensive annual tax submission and financial planning.,Low
+1318,Payroll Processing,e-commerce,medium,both,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1319,Basic Accounting,retail,premium,english,remote,Simple monthly bookkeeping and tax preparation for retail.,High
+1320,SEO Optimization,retail,low,both,mumbai,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1321,Website Design (Basic),retail,low,both,bengaluru,Single-page website design with core functionality and contact form.,Medium
+1322,Social Media Setup,freelancer,low,both,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1323,Advanced Tax Filing,retail,premium,english,remote,Comprehensive annual tax submission and financial planning.,High
+1324,Customer Support Setup,retail,medium,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1325,Inventory Management,restaurant,low,both,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1326,Social Media Setup,freelancer,low,regional,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1327,Basic Accounting,freelancer,premium,english,remote,Simple monthly bookkeeping and tax preparation for freelancer.,Medium
+1328,Basic Accounting,e-commerce,low,english,remote,Simple monthly bookkeeping and tax preparation for e-commerce.,High
+1329,Basic Accounting,tech startup,low,english,remote,Simple monthly bookkeeping and tax preparation for tech startup.,Medium
+1330,Inventory Management,restaurant,premium,english,mumbai,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1331,Business Registration,restaurant,premium,english,mumbai,Complete guidance and filing for establishing a new business entity.,Medium
+1332,Inventory Management,e-commerce,premium,english,delhi,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1333,Basic Accounting,freelancer,low,hindi,remote,Simple monthly bookkeeping and tax preparation for freelancer.,Low
+1334,Payroll Processing,tech startup,high,both,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1335,Website Design (Basic),freelancer,medium,english,delhi,Single-page website design with core functionality and contact form.,Low
+1336,Inventory Management,e-commerce,premium,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1337,Payroll Processing,restaurant,high,regional,mumbai,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1338,Customer Support Setup,restaurant,high,both,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1339,SEO Optimization,retail,high,regional,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1340,Business Registration,clinic,low,english,bengaluru,Complete guidance and filing for establishing a new business entity.,Medium
+1341,Advanced Tax Filing,e-commerce,premium,both,delhi,Comprehensive annual tax submission and financial planning.,Medium
+1342,SEO Optimization,freelancer,high,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1343,Financial Audit,restaurant,premium,both,remote,Independent annual financial statement verification and compliance check.,High
+1344,Digital Marketing Strategy,tech startup,high,both,remote,Development of a 6-month online marketing and advertisement plan.,High
+1345,SEO Optimization,e-commerce,low,regional,chennai,Advanced search engine ranking strategy and implementation for product visibility.,High
+1346,Social Media Setup,e-commerce,low,english,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1347,SEO Optimization,e-commerce,premium,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1348,Contract Review,restaurant,medium,both,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1349,Inventory Management,e-commerce,premium,english,bengaluru,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1350,Payroll Processing,e-commerce,low,both,mumbai,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1351,SEO Optimization,freelancer,high,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1352,Business Registration,restaurant,high,english,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1353,SEO Optimization,e-commerce,medium,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1354,SEO Optimization,restaurant,premium,english,remote,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1355,Contract Review,restaurant,high,hindi,mumbai,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1356,Financial Audit,retail,medium,english,chennai,Independent annual financial statement verification and compliance check.,High
+1357,Financial Audit,clinic,low,hindi,remote,Independent annual financial statement verification and compliance check.,Medium
+1358,Business Registration,retail,low,hindi,delhi,Complete guidance and filing for establishing a new business entity.,High
+1359,Business Registration,clinic,medium,regional,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1360,Inventory Management,freelancer,high,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1361,Social Media Setup,restaurant,premium,both,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1362,Customer Support Setup,tech startup,low,hindi,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1363,Payroll Processing,freelancer,high,hindi,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1364,Basic Accounting,retail,high,english,bengaluru,Simple monthly bookkeeping and tax preparation for retail.,High
+1365,Basic Accounting,retail,medium,both,remote,Simple monthly bookkeeping and tax preparation for retail.,Low
+1366,Basic Accounting,freelancer,high,regional,chennai,Simple monthly bookkeeping and tax preparation for freelancer.,Low
+1367,Digital Marketing Strategy,retail,high,regional,remote,Development of a 6-month online marketing and advertisement plan.,High
+1368,Social Media Setup,retail,premium,hindi,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1369,Inventory Management,freelancer,premium,hindi,delhi,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1370,Payroll Processing,restaurant,low,hindi,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1371,Business Registration,e-commerce,premium,regional,remote,Complete guidance and filing for establishing a new business entity.,Low
+1372,Advanced Tax Filing,freelancer,medium,both,delhi,Comprehensive annual tax submission and financial planning.,High
+1373,Basic Accounting,restaurant,high,hindi,remote,Simple monthly bookkeeping and tax preparation for restaurant.,Low
+1374,SEO Optimization,restaurant,low,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1375,Website Design (Basic),restaurant,premium,regional,remote,Single-page website design with core functionality and contact form.,High
+1376,Contract Review,clinic,low,both,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1377,SEO Optimization,freelancer,high,hindi,delhi,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1378,Customer Support Setup,tech startup,premium,both,chennai,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1379,SEO Optimization,retail,medium,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1380,Digital Marketing Strategy,tech startup,low,regional,bengaluru,Development of a 6-month online marketing and advertisement plan.,Low
+1381,SEO Optimization,retail,high,hindi,bengaluru,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1382,Advanced Tax Filing,retail,high,regional,chennai,Comprehensive annual tax submission and financial planning.,Medium
+1383,Inventory Management,restaurant,medium,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1384,Social Media Setup,clinic,low,english,mumbai,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1385,Business Registration,retail,low,english,delhi,Complete guidance and filing for establishing a new business entity.,High
+1386,SEO Optimization,tech startup,medium,both,delhi,Advanced search engine ranking strategy and implementation for product visibility.,High
+1387,Customer Support Setup,retail,low,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1388,Website Design (Basic),e-commerce,premium,regional,chennai,Single-page website design with core functionality and contact form.,Medium
+1389,Business Registration,freelancer,high,hindi,mumbai,Complete guidance and filing for establishing a new business entity.,Medium
+1390,Payroll Processing,restaurant,medium,hindi,mumbai,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1391,Contract Review,tech startup,premium,english,delhi,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1392,Advanced Tax Filing,restaurant,high,regional,remote,Comprehensive annual tax submission and financial planning.,Low
+1393,Business Registration,clinic,premium,english,bengaluru,Complete guidance and filing for establishing a new business entity.,High
+1394,Basic Accounting,retail,premium,hindi,remote,Simple monthly bookkeeping and tax preparation for retail.,Low
+1395,Financial Audit,e-commerce,premium,regional,remote,Independent annual financial statement verification and compliance check.,Low
+1396,Business Registration,retail,premium,english,delhi,Complete guidance and filing for establishing a new business entity.,Medium
+1397,Website Design (Basic),retail,high,regional,remote,Single-page website design with core functionality and contact form.,High
+1398,Social Media Setup,tech startup,premium,english,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1399,Digital Marketing Strategy,freelancer,medium,both,chennai,Development of a 6-month online marketing and advertisement plan.,High
+1400,Social Media Setup,clinic,medium,english,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1401,Financial Audit,restaurant,medium,both,remote,Independent annual financial statement verification and compliance check.,Medium
+1402,Social Media Setup,restaurant,high,both,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1403,Payroll Processing,tech startup,low,hindi,bengaluru,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1404,Customer Support Setup,clinic,premium,both,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1405,SEO Optimization,tech startup,low,both,chennai,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1406,Advanced Tax Filing,freelancer,high,both,chennai,Comprehensive annual tax submission and financial planning.,High
+1407,Social Media Setup,e-commerce,medium,both,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1408,Financial Audit,e-commerce,premium,both,chennai,Independent annual financial statement verification and compliance check.,High
+1409,Inventory Management,restaurant,medium,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1410,Social Media Setup,retail,high,regional,bengaluru,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1411,Digital Marketing Strategy,clinic,medium,both,delhi,Development of a 6-month online marketing and advertisement plan.,Medium
+1412,Advanced Tax Filing,retail,low,english,remote,Comprehensive annual tax submission and financial planning.,High
+1413,Basic Accounting,retail,low,both,delhi,Simple monthly bookkeeping and tax preparation for retail.,High
+1414,Customer Support Setup,retail,high,regional,chennai,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1415,SEO Optimization,retail,premium,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1416,SEO Optimization,tech startup,premium,english,mumbai,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1417,Inventory Management,e-commerce,low,both,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1418,Basic Accounting,retail,medium,hindi,delhi,Simple monthly bookkeeping and tax preparation for retail.,Medium
+1419,Digital Marketing Strategy,clinic,premium,regional,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1420,Business Registration,e-commerce,premium,hindi,remote,Complete guidance and filing for establishing a new business entity.,High
+1421,Social Media Setup,e-commerce,premium,hindi,chennai,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1422,Business Registration,freelancer,high,english,remote,Complete guidance and filing for establishing a new business entity.,Low
+1423,Advanced Tax Filing,tech startup,high,regional,delhi,Comprehensive annual tax submission and financial planning.,Low
+1424,SEO Optimization,freelancer,medium,regional,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1425,Website Design (Basic),tech startup,premium,hindi,remote,Single-page website design with core functionality and contact form.,Medium
+1426,Financial Audit,clinic,premium,both,remote,Independent annual financial statement verification and compliance check.,Low
+1427,Inventory Management,e-commerce,premium,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1428,Business Registration,clinic,high,hindi,bengaluru,Complete guidance and filing for establishing a new business entity.,High
+1429,Customer Support Setup,clinic,high,english,delhi,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1430,Advanced Tax Filing,e-commerce,low,both,delhi,Comprehensive annual tax submission and financial planning.,High
+1431,Financial Audit,retail,low,hindi,remote,Independent annual financial statement verification and compliance check.,Medium
+1432,Advanced Tax Filing,clinic,premium,both,remote,Comprehensive annual tax submission and financial planning.,Low
+1433,Advanced Tax Filing,restaurant,medium,english,remote,Comprehensive annual tax submission and financial planning.,High
+1434,Customer Support Setup,restaurant,medium,both,delhi,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1435,Contract Review,e-commerce,low,both,delhi,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1436,Digital Marketing Strategy,freelancer,premium,regional,remote,Development of a 6-month online marketing and advertisement plan.,High
+1437,Social Media Setup,restaurant,premium,hindi,bengaluru,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1438,Digital Marketing Strategy,restaurant,premium,english,remote,Development of a 6-month online marketing and advertisement plan.,Medium
+1439,Payroll Processing,restaurant,low,regional,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1440,Financial Audit,tech startup,high,both,remote,Independent annual financial statement verification and compliance check.,High
+1441,SEO Optimization,retail,premium,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1442,Advanced Tax Filing,retail,high,regional,bengaluru,Comprehensive annual tax submission and financial planning.,High
+1443,Contract Review,freelancer,high,english,bengaluru,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1444,Basic Accounting,freelancer,high,hindi,bengaluru,Simple monthly bookkeeping and tax preparation for freelancer.,High
+1445,Customer Support Setup,e-commerce,premium,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1446,Digital Marketing Strategy,tech startup,medium,english,delhi,Development of a 6-month online marketing and advertisement plan.,High
+1447,Contract Review,restaurant,low,english,delhi,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1448,SEO Optimization,e-commerce,high,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1449,Advanced Tax Filing,freelancer,medium,english,remote,Comprehensive annual tax submission and financial planning.,Medium
+1450,Business Registration,restaurant,high,regional,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1451,Website Design (Basic),restaurant,premium,regional,remote,Single-page website design with core functionality and contact form.,Low
+1452,Basic Accounting,freelancer,low,english,chennai,Simple monthly bookkeeping and tax preparation for freelancer.,High
+1453,Social Media Setup,restaurant,premium,hindi,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1454,Website Design (Basic),retail,medium,english,remote,Single-page website design with core functionality and contact form.,Medium
+1455,Advanced Tax Filing,clinic,high,hindi,chennai,Comprehensive annual tax submission and financial planning.,Low
+1456,Basic Accounting,retail,premium,english,chennai,Simple monthly bookkeeping and tax preparation for retail.,Medium
+1457,Business Registration,tech startup,premium,both,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1458,Customer Support Setup,e-commerce,high,hindi,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1459,Website Design (Basic),retail,premium,both,remote,Single-page website design with core functionality and contact form.,Low
+1460,Financial Audit,freelancer,medium,both,remote,Independent annual financial statement verification and compliance check.,High
+1461,Inventory Management,restaurant,premium,english,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1462,Financial Audit,tech startup,high,english,chennai,Independent annual financial statement verification and compliance check.,Medium
+1463,Website Design (Basic),clinic,low,regional,remote,Single-page website design with core functionality and contact form.,Medium
+1464,Financial Audit,clinic,low,regional,remote,Independent annual financial statement verification and compliance check.,High
+1465,Basic Accounting,restaurant,medium,english,mumbai,Simple monthly bookkeeping and tax preparation for restaurant.,High
+1466,Customer Support Setup,retail,premium,hindi,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1467,Basic Accounting,tech startup,low,regional,remote,Simple monthly bookkeeping and tax preparation for tech startup.,High
+1468,Social Media Setup,e-commerce,premium,hindi,chennai,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1469,SEO Optimization,clinic,high,both,delhi,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1470,SEO Optimization,tech startup,medium,hindi,bengaluru,Advanced search engine ranking strategy and implementation for product visibility.,High
+1471,Contract Review,restaurant,low,hindi,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1472,Business Registration,restaurant,low,regional,delhi,Complete guidance and filing for establishing a new business entity.,Low
+1473,Inventory Management,retail,medium,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1474,Payroll Processing,freelancer,premium,hindi,bengaluru,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1475,Basic Accounting,restaurant,medium,hindi,remote,Simple monthly bookkeeping and tax preparation for restaurant.,High
+1476,Customer Support Setup,freelancer,low,english,bengaluru,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1477,Social Media Setup,restaurant,premium,english,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1478,Social Media Setup,tech startup,high,regional,mumbai,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1479,Basic Accounting,e-commerce,premium,hindi,remote,Simple monthly bookkeeping and tax preparation for e-commerce.,Medium
+1480,Website Design (Basic),e-commerce,medium,hindi,remote,Single-page website design with core functionality and contact form.,Low
+1481,Website Design (Basic),retail,premium,english,delhi,Single-page website design with core functionality and contact form.,Medium
+1482,Website Design (Basic),retail,medium,both,mumbai,Single-page website design with core functionality and contact form.,Medium
+1483,Digital Marketing Strategy,restaurant,premium,english,remote,Development of a 6-month online marketing and advertisement plan.,High
+1484,Basic Accounting,freelancer,premium,hindi,bengaluru,Simple monthly bookkeeping and tax preparation for freelancer.,High
+1485,Advanced Tax Filing,e-commerce,high,hindi,remote,Comprehensive annual tax submission and financial planning.,Medium
+1486,Financial Audit,clinic,premium,english,remote,Independent annual financial statement verification and compliance check.,Low
+1487,Website Design (Basic),clinic,premium,hindi,remote,Single-page website design with core functionality and contact form.,High
+1488,Social Media Setup,retail,medium,hindi,mumbai,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1489,Website Design (Basic),freelancer,premium,english,remote,Single-page website design with core functionality and contact form.,High
+1490,Contract Review,clinic,high,hindi,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1491,Inventory Management,clinic,premium,both,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1492,Website Design (Basic),restaurant,low,english,remote,Single-page website design with core functionality and contact form.,High
+1493,Contract Review,e-commerce,high,hindi,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1494,Inventory Management,e-commerce,premium,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1495,Payroll Processing,clinic,premium,hindi,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1496,SEO Optimization,freelancer,medium,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1497,Contract Review,clinic,high,both,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1498,Inventory Management,tech startup,premium,both,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1499,Customer Support Setup,tech startup,premium,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1500,SEO Optimization,e-commerce,high,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1501,Financial Audit,restaurant,high,both,remote,Independent annual financial statement verification and compliance check.,Medium
+1502,Financial Audit,retail,low,hindi,remote,Independent annual financial statement verification and compliance check.,Medium
+1503,Social Media Setup,freelancer,low,hindi,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1504,Basic Accounting,tech startup,premium,regional,remote,Simple monthly bookkeeping and tax preparation for tech startup.,Medium
+1505,Financial Audit,freelancer,medium,regional,remote,Independent annual financial statement verification and compliance check.,High
+1506,Digital Marketing Strategy,clinic,high,regional,remote,Development of a 6-month online marketing and advertisement plan.,High
+1507,Payroll Processing,clinic,low,hindi,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1508,Financial Audit,restaurant,high,hindi,remote,Independent annual financial statement verification and compliance check.,Low
+1509,Advanced Tax Filing,restaurant,low,english,remote,Comprehensive annual tax submission and financial planning.,High
+1510,Website Design (Basic),tech startup,low,regional,mumbai,Single-page website design with core functionality and contact form.,Medium
+1511,Financial Audit,retail,medium,regional,remote,Independent annual financial statement verification and compliance check.,High
+1512,SEO Optimization,clinic,medium,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1513,SEO Optimization,clinic,premium,both,delhi,Advanced search engine ranking strategy and implementation for product visibility.,High
+1514,Customer Support Setup,clinic,high,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1515,Inventory Management,restaurant,low,hindi,mumbai,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1516,Basic Accounting,restaurant,high,hindi,bengaluru,Simple monthly bookkeeping and tax preparation for restaurant.,High
+1517,Website Design (Basic),freelancer,low,regional,bengaluru,Single-page website design with core functionality and contact form.,Low
+1518,Basic Accounting,clinic,medium,regional,mumbai,Simple monthly bookkeeping and tax preparation for clinic.,Medium
+1519,SEO Optimization,retail,medium,regional,chennai,Advanced search engine ranking strategy and implementation for product visibility.,High
+1520,Inventory Management,restaurant,medium,english,delhi,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1521,Contract Review,tech startup,low,english,delhi,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1522,Advanced Tax Filing,freelancer,medium,english,chennai,Comprehensive annual tax submission and financial planning.,High
+1523,Advanced Tax Filing,e-commerce,premium,regional,remote,Comprehensive annual tax submission and financial planning.,Medium
+1524,Inventory Management,freelancer,low,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1525,Financial Audit,freelancer,premium,regional,remote,Independent annual financial statement verification and compliance check.,Medium
+1526,Inventory Management,e-commerce,premium,regional,chennai,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1527,Financial Audit,clinic,high,hindi,chennai,Independent annual financial statement verification and compliance check.,High
+1528,Advanced Tax Filing,clinic,low,english,bengaluru,Comprehensive annual tax submission and financial planning.,High
+1529,Payroll Processing,e-commerce,premium,english,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1530,Digital Marketing Strategy,retail,medium,both,remote,Development of a 6-month online marketing and advertisement plan.,Medium
+1531,Customer Support Setup,e-commerce,premium,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1532,Digital Marketing Strategy,retail,premium,english,delhi,Development of a 6-month online marketing and advertisement plan.,High
+1533,Advanced Tax Filing,restaurant,low,both,remote,Comprehensive annual tax submission and financial planning.,Low
+1534,Social Media Setup,restaurant,medium,regional,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1535,Inventory Management,retail,low,hindi,mumbai,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1536,Social Media Setup,tech startup,low,both,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1537,Financial Audit,retail,medium,regional,chennai,Independent annual financial statement verification and compliance check.,High
+1538,Inventory Management,e-commerce,low,both,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1539,SEO Optimization,retail,high,hindi,bengaluru,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1540,Website Design (Basic),freelancer,medium,regional,bengaluru,Single-page website design with core functionality and contact form.,Medium
+1541,Basic Accounting,freelancer,premium,hindi,chennai,Simple monthly bookkeeping and tax preparation for freelancer.,High
+1542,SEO Optimization,tech startup,premium,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1543,Payroll Processing,restaurant,medium,regional,bengaluru,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1544,Website Design (Basic),e-commerce,high,regional,remote,Single-page website design with core functionality and contact form.,High
+1545,Digital Marketing Strategy,restaurant,low,hindi,mumbai,Development of a 6-month online marketing and advertisement plan.,High
+1546,Inventory Management,restaurant,medium,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1547,Customer Support Setup,tech startup,medium,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1548,Payroll Processing,e-commerce,premium,both,delhi,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1549,Contract Review,retail,high,both,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1550,SEO Optimization,e-commerce,high,english,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1551,Digital Marketing Strategy,retail,high,regional,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1552,Payroll Processing,freelancer,low,english,mumbai,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1553,Contract Review,clinic,low,regional,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1554,Advanced Tax Filing,freelancer,high,hindi,remote,Comprehensive annual tax submission and financial planning.,Medium
+1555,Website Design (Basic),clinic,premium,hindi,chennai,Single-page website design with core functionality and contact form.,High
+1556,Inventory Management,freelancer,premium,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1557,Business Registration,tech startup,low,both,bengaluru,Complete guidance and filing for establishing a new business entity.,Low
+1558,Inventory Management,retail,low,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1559,Business Registration,clinic,low,both,mumbai,Complete guidance and filing for establishing a new business entity.,High
+1560,SEO Optimization,tech startup,premium,regional,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1561,Website Design (Basic),e-commerce,medium,regional,mumbai,Single-page website design with core functionality and contact form.,Medium
+1562,Customer Support Setup,retail,medium,english,mumbai,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1563,Customer Support Setup,e-commerce,medium,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1564,Financial Audit,clinic,medium,english,mumbai,Independent annual financial statement verification and compliance check.,Medium
+1565,Contract Review,tech startup,medium,hindi,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1566,Customer Support Setup,restaurant,high,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1567,Business Registration,restaurant,medium,regional,remote,Complete guidance and filing for establishing a new business entity.,Low
+1568,Social Media Setup,retail,high,regional,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1569,Inventory Management,restaurant,medium,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1570,SEO Optimization,tech startup,medium,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1571,Social Media Setup,clinic,medium,english,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1572,Payroll Processing,restaurant,premium,regional,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1573,Basic Accounting,retail,low,both,bengaluru,Simple monthly bookkeeping and tax preparation for retail.,Medium
+1574,Financial Audit,restaurant,low,regional,mumbai,Independent annual financial statement verification and compliance check.,High
+1575,Advanced Tax Filing,clinic,high,regional,remote,Comprehensive annual tax submission and financial planning.,Medium
+1576,Business Registration,tech startup,premium,english,bengaluru,Complete guidance and filing for establishing a new business entity.,High
+1577,Customer Support Setup,e-commerce,premium,hindi,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1578,Website Design (Basic),tech startup,premium,regional,chennai,Single-page website design with core functionality and contact form.,High
+1579,Customer Support Setup,tech startup,high,hindi,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1580,Social Media Setup,e-commerce,premium,hindi,bengaluru,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1581,Business Registration,freelancer,high,hindi,remote,Complete guidance and filing for establishing a new business entity.,High
+1582,Basic Accounting,retail,low,english,chennai,Simple monthly bookkeeping and tax preparation for retail.,Medium
+1583,Contract Review,clinic,medium,regional,mumbai,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1584,Website Design (Basic),freelancer,premium,regional,remote,Single-page website design with core functionality and contact form.,Medium
+1585,Financial Audit,clinic,premium,regional,remote,Independent annual financial statement verification and compliance check.,High
+1586,Business Registration,restaurant,premium,both,mumbai,Complete guidance and filing for establishing a new business entity.,Medium
+1587,Website Design (Basic),freelancer,premium,hindi,remote,Single-page website design with core functionality and contact form.,Low
+1588,Payroll Processing,restaurant,premium,hindi,bengaluru,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1589,Contract Review,clinic,premium,both,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1590,Customer Support Setup,tech startup,medium,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1591,SEO Optimization,retail,high,regional,mumbai,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1592,Contract Review,e-commerce,low,regional,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1593,Payroll Processing,retail,low,hindi,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1594,Social Media Setup,tech startup,premium,english,bengaluru,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1595,SEO Optimization,freelancer,medium,both,chennai,Advanced search engine ranking strategy and implementation for product visibility.,High
+1596,Inventory Management,freelancer,premium,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1597,Financial Audit,retail,premium,hindi,remote,Independent annual financial statement verification and compliance check.,Medium
+1598,Website Design (Basic),tech startup,medium,hindi,chennai,Single-page website design with core functionality and contact form.,Low
+1599,Website Design (Basic),tech startup,premium,both,delhi,Single-page website design with core functionality and contact form.,Medium
+1600,Customer Support Setup,retail,premium,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1601,SEO Optimization,clinic,premium,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1602,Website Design (Basic),retail,medium,regional,remote,Single-page website design with core functionality and contact form.,Medium
+1603,Website Design (Basic),retail,high,regional,remote,Single-page website design with core functionality and contact form.,Medium
+1604,Basic Accounting,e-commerce,medium,regional,mumbai,Simple monthly bookkeeping and tax preparation for e-commerce.,Low
+1605,Customer Support Setup,e-commerce,premium,both,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1606,Website Design (Basic),clinic,high,regional,remote,Single-page website design with core functionality and contact form.,Medium
+1607,Payroll Processing,freelancer,medium,both,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1608,Basic Accounting,clinic,premium,regional,remote,Simple monthly bookkeeping and tax preparation for clinic.,Low
+1609,Digital Marketing Strategy,e-commerce,high,english,remote,Development of a 6-month online marketing and advertisement plan.,High
+1610,Financial Audit,tech startup,medium,both,remote,Independent annual financial statement verification and compliance check.,Medium
+1611,Business Registration,e-commerce,medium,english,delhi,Complete guidance and filing for establishing a new business entity.,Low
+1612,Advanced Tax Filing,freelancer,medium,both,remote,Comprehensive annual tax submission and financial planning.,Medium
+1613,Website Design (Basic),retail,high,regional,remote,Single-page website design with core functionality and contact form.,High
+1614,Social Media Setup,e-commerce,premium,both,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1615,Digital Marketing Strategy,restaurant,high,regional,remote,Development of a 6-month online marketing and advertisement plan.,Medium
+1616,Social Media Setup,tech startup,premium,regional,bengaluru,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1617,Website Design (Basic),freelancer,high,english,remote,Single-page website design with core functionality and contact form.,Medium
+1618,Business Registration,freelancer,high,english,chennai,Complete guidance and filing for establishing a new business entity.,High
+1619,Customer Support Setup,retail,medium,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1620,Business Registration,restaurant,medium,regional,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1621,Website Design (Basic),retail,high,hindi,remote,Single-page website design with core functionality and contact form.,High
+1622,Payroll Processing,e-commerce,low,regional,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1623,Basic Accounting,e-commerce,low,both,remote,Simple monthly bookkeeping and tax preparation for e-commerce.,Low
+1624,SEO Optimization,retail,high,regional,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1625,Social Media Setup,restaurant,high,both,chennai,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1626,Website Design (Basic),e-commerce,medium,regional,remote,Single-page website design with core functionality and contact form.,High
+1627,Financial Audit,tech startup,premium,hindi,remote,Independent annual financial statement verification and compliance check.,Low
+1628,Business Registration,freelancer,medium,both,delhi,Complete guidance and filing for establishing a new business entity.,Medium
+1629,Basic Accounting,clinic,high,hindi,remote,Simple monthly bookkeeping and tax preparation for clinic.,High
+1630,Website Design (Basic),retail,high,regional,delhi,Single-page website design with core functionality and contact form.,Low
+1631,Website Design (Basic),restaurant,medium,hindi,mumbai,Single-page website design with core functionality and contact form.,High
+1632,Inventory Management,retail,low,hindi,bengaluru,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1633,Social Media Setup,tech startup,low,both,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1634,Digital Marketing Strategy,retail,low,hindi,remote,Development of a 6-month online marketing and advertisement plan.,Medium
+1635,Social Media Setup,clinic,low,regional,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1636,Customer Support Setup,freelancer,high,hindi,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1637,Business Registration,freelancer,high,english,remote,Complete guidance and filing for establishing a new business entity.,High
+1638,Contract Review,freelancer,medium,regional,delhi,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1639,SEO Optimization,freelancer,low,english,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1640,Business Registration,e-commerce,low,english,mumbai,Complete guidance and filing for establishing a new business entity.,High
+1641,SEO Optimization,tech startup,low,english,mumbai,Advanced search engine ranking strategy and implementation for product visibility.,High
+1642,Payroll Processing,e-commerce,medium,hindi,delhi,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1643,Digital Marketing Strategy,tech startup,premium,english,chennai,Development of a 6-month online marketing and advertisement plan.,High
+1644,Contract Review,retail,high,regional,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1645,Payroll Processing,restaurant,medium,english,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1646,Basic Accounting,e-commerce,medium,regional,remote,Simple monthly bookkeeping and tax preparation for e-commerce.,High
+1647,Basic Accounting,restaurant,high,regional,remote,Simple monthly bookkeeping and tax preparation for restaurant.,High
+1648,SEO Optimization,restaurant,high,english,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1649,Contract Review,restaurant,low,english,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1650,Payroll Processing,freelancer,high,hindi,delhi,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1651,SEO Optimization,tech startup,low,both,delhi,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1652,SEO Optimization,restaurant,low,english,delhi,Advanced search engine ranking strategy and implementation for product visibility.,High
+1653,Basic Accounting,freelancer,medium,hindi,delhi,Simple monthly bookkeeping and tax preparation for freelancer.,High
+1654,Social Media Setup,restaurant,low,english,mumbai,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1655,Customer Support Setup,e-commerce,low,hindi,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1656,Social Media Setup,restaurant,high,english,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1657,Advanced Tax Filing,tech startup,low,hindi,mumbai,Comprehensive annual tax submission and financial planning.,High
+1658,Financial Audit,freelancer,premium,english,chennai,Independent annual financial statement verification and compliance check.,High
+1659,Website Design (Basic),tech startup,high,both,remote,Single-page website design with core functionality and contact form.,High
+1660,Inventory Management,e-commerce,high,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1661,Basic Accounting,retail,premium,hindi,remote,Simple monthly bookkeeping and tax preparation for retail.,Medium
+1662,Contract Review,clinic,high,regional,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Low
+1663,Basic Accounting,e-commerce,premium,hindi,remote,Simple monthly bookkeeping and tax preparation for e-commerce.,Medium
+1664,Business Registration,e-commerce,high,english,remote,Complete guidance and filing for establishing a new business entity.,High
+1665,Financial Audit,freelancer,high,regional,chennai,Independent annual financial statement verification and compliance check.,Medium
+1666,SEO Optimization,clinic,medium,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1667,Contract Review,clinic,low,hindi,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Low
+1668,Basic Accounting,retail,premium,english,chennai,Simple monthly bookkeeping and tax preparation for retail.,Low
+1669,Website Design (Basic),freelancer,low,english,remote,Single-page website design with core functionality and contact form.,Medium
+1670,Social Media Setup,e-commerce,medium,hindi,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1671,Social Media Setup,freelancer,premium,regional,delhi,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1672,Payroll Processing,clinic,high,regional,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1673,Business Registration,e-commerce,medium,regional,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1674,Business Registration,e-commerce,low,both,mumbai,Complete guidance and filing for establishing a new business entity.,Medium
+1675,Financial Audit,tech startup,medium,both,remote,Independent annual financial statement verification and compliance check.,High
+1676,Inventory Management,freelancer,premium,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1677,Contract Review,restaurant,medium,english,delhi,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1678,Website Design (Basic),restaurant,low,regional,delhi,Single-page website design with core functionality and contact form.,Low
+1679,Customer Support Setup,e-commerce,premium,hindi,delhi,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1680,Business Registration,retail,premium,english,remote,Complete guidance and filing for establishing a new business entity.,Low
+1681,Website Design (Basic),e-commerce,low,hindi,mumbai,Single-page website design with core functionality and contact form.,High
+1682,Financial Audit,clinic,medium,hindi,remote,Independent annual financial statement verification and compliance check.,High
+1683,Contract Review,e-commerce,high,regional,bengaluru,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1684,Advanced Tax Filing,freelancer,low,both,remote,Comprehensive annual tax submission and financial planning.,Medium
+1685,Inventory Management,tech startup,premium,regional,bengaluru,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1686,Contract Review,e-commerce,premium,regional,mumbai,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1687,Contract Review,restaurant,low,hindi,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1688,Basic Accounting,freelancer,low,regional,remote,Simple monthly bookkeeping and tax preparation for freelancer.,High
+1689,Advanced Tax Filing,restaurant,low,english,bengaluru,Comprehensive annual tax submission and financial planning.,Medium
+1690,Customer Support Setup,retail,premium,english,bengaluru,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1691,SEO Optimization,tech startup,high,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1692,Inventory Management,tech startup,low,both,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1693,Payroll Processing,tech startup,premium,hindi,delhi,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1694,Business Registration,clinic,high,hindi,mumbai,Complete guidance and filing for establishing a new business entity.,High
+1695,Basic Accounting,retail,low,regional,delhi,Simple monthly bookkeeping and tax preparation for retail.,High
+1696,Digital Marketing Strategy,restaurant,medium,english,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1697,Business Registration,freelancer,high,english,remote,Complete guidance and filing for establishing a new business entity.,High
+1698,Financial Audit,freelancer,high,english,bengaluru,Independent annual financial statement verification and compliance check.,Low
+1699,Customer Support Setup,e-commerce,medium,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1700,Website Design (Basic),e-commerce,medium,hindi,remote,Single-page website design with core functionality and contact form.,Low
+1701,Basic Accounting,clinic,high,regional,bengaluru,Simple monthly bookkeeping and tax preparation for clinic.,Low
+1702,Financial Audit,clinic,low,both,remote,Independent annual financial statement verification and compliance check.,Low
+1703,Website Design (Basic),restaurant,low,regional,remote,Single-page website design with core functionality and contact form.,Low
+1704,Digital Marketing Strategy,freelancer,premium,regional,remote,Development of a 6-month online marketing and advertisement plan.,Medium
+1705,Business Registration,e-commerce,low,regional,remote,Complete guidance and filing for establishing a new business entity.,High
+1706,Digital Marketing Strategy,freelancer,premium,english,remote,Development of a 6-month online marketing and advertisement plan.,High
+1707,Customer Support Setup,tech startup,low,both,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1708,Business Registration,clinic,low,regional,bengaluru,Complete guidance and filing for establishing a new business entity.,High
+1709,Social Media Setup,restaurant,medium,regional,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1710,Digital Marketing Strategy,clinic,medium,regional,remote,Development of a 6-month online marketing and advertisement plan.,High
+1711,Website Design (Basic),retail,premium,regional,remote,Single-page website design with core functionality and contact form.,High
+1712,Website Design (Basic),tech startup,medium,both,remote,Single-page website design with core functionality and contact form.,Low
+1713,Advanced Tax Filing,tech startup,medium,hindi,mumbai,Comprehensive annual tax submission and financial planning.,Medium
+1714,Financial Audit,e-commerce,medium,regional,remote,Independent annual financial statement verification and compliance check.,Low
+1715,SEO Optimization,tech startup,medium,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1716,Digital Marketing Strategy,freelancer,high,hindi,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1717,Social Media Setup,clinic,medium,hindi,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1718,Social Media Setup,restaurant,high,both,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1719,Payroll Processing,retail,premium,hindi,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1720,Customer Support Setup,e-commerce,high,hindi,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1721,Payroll Processing,e-commerce,low,both,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1722,SEO Optimization,clinic,high,hindi,mumbai,Advanced search engine ranking strategy and implementation for product visibility.,High
+1723,Inventory Management,retail,high,regional,delhi,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1724,Basic Accounting,retail,premium,regional,chennai,Simple monthly bookkeeping and tax preparation for retail.,Medium
+1725,Website Design (Basic),clinic,medium,regional,remote,Single-page website design with core functionality and contact form.,Medium
+1726,Digital Marketing Strategy,clinic,low,hindi,remote,Development of a 6-month online marketing and advertisement plan.,High
+1727,Advanced Tax Filing,e-commerce,low,hindi,mumbai,Comprehensive annual tax submission and financial planning.,Medium
+1728,Contract Review,tech startup,low,regional,delhi,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1729,Business Registration,tech startup,low,hindi,remote,Complete guidance and filing for establishing a new business entity.,Low
+1730,Website Design (Basic),e-commerce,low,regional,remote,Single-page website design with core functionality and contact form.,High
+1731,Digital Marketing Strategy,freelancer,premium,english,delhi,Development of a 6-month online marketing and advertisement plan.,Medium
+1732,Digital Marketing Strategy,freelancer,low,regional,delhi,Development of a 6-month online marketing and advertisement plan.,Medium
+1733,Financial Audit,freelancer,premium,english,mumbai,Independent annual financial statement verification and compliance check.,Low
+1734,Contract Review,e-commerce,medium,both,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1735,Business Registration,retail,premium,both,remote,Complete guidance and filing for establishing a new business entity.,Low
+1736,Advanced Tax Filing,e-commerce,high,hindi,remote,Comprehensive annual tax submission and financial planning.,Medium
+1737,Financial Audit,retail,low,regional,remote,Independent annual financial statement verification and compliance check.,Medium
+1738,Website Design (Basic),freelancer,medium,english,mumbai,Single-page website design with core functionality and contact form.,High
+1739,Business Registration,clinic,low,regional,remote,Complete guidance and filing for establishing a new business entity.,High
+1740,Payroll Processing,restaurant,high,regional,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1741,Inventory Management,clinic,high,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1742,Website Design (Basic),retail,medium,regional,remote,Single-page website design with core functionality and contact form.,High
+1743,Social Media Setup,tech startup,high,both,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1744,Contract Review,freelancer,premium,english,bengaluru,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1745,Website Design (Basic),restaurant,medium,english,remote,Single-page website design with core functionality and contact form.,Medium
+1746,Financial Audit,tech startup,high,both,remote,Independent annual financial statement verification and compliance check.,Medium
+1747,Business Registration,retail,low,english,remote,Complete guidance and filing for establishing a new business entity.,High
+1748,Payroll Processing,freelancer,low,english,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1749,SEO Optimization,restaurant,medium,both,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1750,Customer Support Setup,retail,premium,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1751,Digital Marketing Strategy,retail,low,english,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1752,Contract Review,retail,premium,hindi,mumbai,Legal review and drafting of standard client/vendor contracts and agreements.,Low
+1753,Advanced Tax Filing,tech startup,high,both,delhi,Comprehensive annual tax submission and financial planning.,Medium
+1754,Business Registration,restaurant,low,regional,remote,Complete guidance and filing for establishing a new business entity.,Low
+1755,Customer Support Setup,retail,high,both,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1756,Basic Accounting,tech startup,high,both,remote,Simple monthly bookkeeping and tax preparation for tech startup.,High
+1757,Basic Accounting,clinic,low,hindi,chennai,Simple monthly bookkeeping and tax preparation for clinic.,Low
+1758,Inventory Management,tech startup,low,regional,mumbai,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1759,Contract Review,e-commerce,premium,both,delhi,Legal review and drafting of standard client/vendor contracts and agreements.,Low
+1760,Customer Support Setup,restaurant,high,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1761,Contract Review,clinic,high,both,chennai,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1762,Payroll Processing,restaurant,premium,hindi,chennai,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1763,Business Registration,restaurant,premium,english,remote,Complete guidance and filing for establishing a new business entity.,High
+1764,Payroll Processing,retail,medium,hindi,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1765,Website Design (Basic),e-commerce,premium,regional,delhi,Single-page website design with core functionality and contact form.,Medium
+1766,Business Registration,e-commerce,high,both,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1767,Digital Marketing Strategy,freelancer,low,both,bengaluru,Development of a 6-month online marketing and advertisement plan.,High
+1768,Basic Accounting,restaurant,high,english,remote,Simple monthly bookkeeping and tax preparation for restaurant.,Medium
+1769,Contract Review,clinic,high,both,bengaluru,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1770,Customer Support Setup,e-commerce,premium,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1771,Digital Marketing Strategy,e-commerce,medium,hindi,chennai,Development of a 6-month online marketing and advertisement plan.,Low
+1772,Digital Marketing Strategy,tech startup,medium,english,bengaluru,Development of a 6-month online marketing and advertisement plan.,Medium
+1773,SEO Optimization,restaurant,high,hindi,delhi,Advanced search engine ranking strategy and implementation for product visibility.,High
+1774,Contract Review,freelancer,low,english,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1775,Digital Marketing Strategy,clinic,medium,regional,remote,Development of a 6-month online marketing and advertisement plan.,High
+1776,SEO Optimization,e-commerce,high,hindi,chennai,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1777,Business Registration,e-commerce,high,regional,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1778,Customer Support Setup,tech startup,premium,hindi,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1779,Contract Review,clinic,low,both,bengaluru,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1780,Social Media Setup,clinic,premium,english,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1781,SEO Optimization,tech startup,premium,regional,mumbai,Advanced search engine ranking strategy and implementation for product visibility.,High
+1782,Social Media Setup,e-commerce,premium,hindi,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1783,SEO Optimization,retail,low,english,chennai,Advanced search engine ranking strategy and implementation for product visibility.,High
+1784,Payroll Processing,retail,premium,both,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1785,Digital Marketing Strategy,e-commerce,low,regional,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1786,Payroll Processing,restaurant,premium,english,chennai,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1787,Social Media Setup,restaurant,medium,regional,delhi,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1788,Contract Review,freelancer,medium,english,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1789,Inventory Management,clinic,premium,regional,delhi,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1790,Inventory Management,e-commerce,high,english,chennai,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1791,Business Registration,tech startup,medium,regional,remote,Complete guidance and filing for establishing a new business entity.,Low
+1792,Advanced Tax Filing,restaurant,premium,hindi,remote,Comprehensive annual tax submission and financial planning.,Medium
+1793,Website Design (Basic),tech startup,medium,both,bengaluru,Single-page website design with core functionality and contact form.,Medium
+1794,Payroll Processing,freelancer,low,english,bengaluru,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1795,Inventory Management,freelancer,low,english,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1796,Basic Accounting,tech startup,low,regional,delhi,Simple monthly bookkeeping and tax preparation for tech startup.,Medium
+1797,Inventory Management,clinic,low,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1798,Inventory Management,freelancer,high,english,bengaluru,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1799,Social Media Setup,retail,medium,regional,chennai,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1800,Social Media Setup,tech startup,high,both,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1801,Customer Support Setup,clinic,premium,hindi,bengaluru,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1802,SEO Optimization,e-commerce,medium,regional,chennai,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1803,Social Media Setup,clinic,premium,both,mumbai,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1804,Digital Marketing Strategy,e-commerce,premium,hindi,remote,Development of a 6-month online marketing and advertisement plan.,Medium
+1805,Contract Review,e-commerce,medium,english,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1806,Customer Support Setup,freelancer,premium,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1807,Payroll Processing,retail,premium,regional,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1808,Inventory Management,freelancer,low,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1809,Financial Audit,retail,high,hindi,chennai,Independent annual financial statement verification and compliance check.,Medium
+1810,Advanced Tax Filing,freelancer,high,both,remote,Comprehensive annual tax submission and financial planning.,High
+1811,Financial Audit,e-commerce,medium,both,remote,Independent annual financial statement verification and compliance check.,Low
+1812,Social Media Setup,retail,low,hindi,bengaluru,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1813,Contract Review,retail,medium,english,mumbai,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1814,Inventory Management,freelancer,high,regional,bengaluru,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1815,Inventory Management,clinic,premium,both,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1816,Payroll Processing,e-commerce,low,regional,mumbai,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1817,Basic Accounting,restaurant,medium,regional,remote,Simple monthly bookkeeping and tax preparation for restaurant.,Low
+1818,Business Registration,retail,low,regional,remote,Complete guidance and filing for establishing a new business entity.,High
+1819,Inventory Management,clinic,low,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1820,Inventory Management,retail,premium,hindi,mumbai,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1821,SEO Optimization,retail,low,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1822,Digital Marketing Strategy,freelancer,medium,regional,delhi,Development of a 6-month online marketing and advertisement plan.,High
+1823,Advanced Tax Filing,e-commerce,medium,english,remote,Comprehensive annual tax submission and financial planning.,Medium
+1824,Digital Marketing Strategy,freelancer,high,both,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1825,Customer Support Setup,restaurant,low,hindi,chennai,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1826,Payroll Processing,e-commerce,premium,regional,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1827,Website Design (Basic),restaurant,high,both,remote,Single-page website design with core functionality and contact form.,Medium
+1828,Website Design (Basic),e-commerce,high,regional,remote,Single-page website design with core functionality and contact form.,High
+1829,Customer Support Setup,retail,medium,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1830,Inventory Management,freelancer,premium,hindi,mumbai,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1831,Digital Marketing Strategy,e-commerce,medium,both,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1832,SEO Optimization,retail,low,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1833,Payroll Processing,clinic,premium,regional,delhi,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1834,Basic Accounting,tech startup,premium,both,mumbai,Simple monthly bookkeeping and tax preparation for tech startup.,Medium
+1835,Financial Audit,clinic,premium,hindi,bengaluru,Independent annual financial statement verification and compliance check.,High
+1836,Contract Review,e-commerce,medium,regional,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1837,SEO Optimization,freelancer,premium,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1838,Advanced Tax Filing,clinic,medium,regional,remote,Comprehensive annual tax submission and financial planning.,High
+1839,Basic Accounting,clinic,low,both,remote,Simple monthly bookkeeping and tax preparation for clinic.,Medium
+1840,SEO Optimization,freelancer,high,english,mumbai,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1841,Business Registration,e-commerce,low,english,chennai,Complete guidance and filing for establishing a new business entity.,High
+1842,Advanced Tax Filing,restaurant,high,regional,remote,Comprehensive annual tax submission and financial planning.,Low
+1843,Basic Accounting,e-commerce,high,hindi,delhi,Simple monthly bookkeeping and tax preparation for e-commerce.,Medium
+1844,SEO Optimization,retail,medium,english,remote,Advanced search engine ranking strategy and implementation for product visibility.,High
+1845,Basic Accounting,retail,high,hindi,remote,Simple monthly bookkeeping and tax preparation for retail.,High
+1846,Inventory Management,clinic,medium,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1847,Basic Accounting,freelancer,high,regional,mumbai,Simple monthly bookkeeping and tax preparation for freelancer.,Medium
+1848,Social Media Setup,tech startup,medium,english,chennai,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1849,Inventory Management,clinic,medium,both,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1850,Financial Audit,e-commerce,premium,hindi,remote,Independent annual financial statement verification and compliance check.,High
+1851,Website Design (Basic),tech startup,medium,regional,remote,Single-page website design with core functionality and contact form.,High
+1852,Financial Audit,restaurant,high,english,mumbai,Independent annual financial statement verification and compliance check.,Medium
+1853,Advanced Tax Filing,retail,premium,hindi,remote,Comprehensive annual tax submission and financial planning.,High
+1854,Payroll Processing,clinic,premium,regional,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1855,Inventory Management,freelancer,premium,regional,delhi,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1856,Inventory Management,clinic,premium,hindi,delhi,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1857,Payroll Processing,clinic,premium,both,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1858,Financial Audit,tech startup,premium,both,remote,Independent annual financial statement verification and compliance check.,High
+1859,Basic Accounting,restaurant,high,both,mumbai,Simple monthly bookkeeping and tax preparation for restaurant.,High
+1860,Advanced Tax Filing,freelancer,premium,both,delhi,Comprehensive annual tax submission and financial planning.,High
+1861,SEO Optimization,retail,premium,regional,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1862,Business Registration,e-commerce,low,regional,bengaluru,Complete guidance and filing for establishing a new business entity.,Medium
+1863,Financial Audit,tech startup,premium,hindi,chennai,Independent annual financial statement verification and compliance check.,High
+1864,Business Registration,tech startup,low,hindi,remote,Complete guidance and filing for establishing a new business entity.,Low
+1865,Customer Support Setup,e-commerce,low,english,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1866,Payroll Processing,restaurant,medium,english,chennai,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1867,Financial Audit,clinic,premium,hindi,delhi,Independent annual financial statement verification and compliance check.,Medium
+1868,Payroll Processing,e-commerce,low,english,mumbai,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1869,Customer Support Setup,e-commerce,low,hindi,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1870,Payroll Processing,clinic,premium,english,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1871,Advanced Tax Filing,retail,low,regional,mumbai,Comprehensive annual tax submission and financial planning.,Medium
+1872,SEO Optimization,freelancer,high,regional,remote,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1873,Advanced Tax Filing,freelancer,high,english,mumbai,Comprehensive annual tax submission and financial planning.,Medium
+1874,Customer Support Setup,tech startup,medium,english,mumbai,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1875,Basic Accounting,freelancer,premium,english,delhi,Simple monthly bookkeeping and tax preparation for freelancer.,Low
+1876,Website Design (Basic),restaurant,high,english,bengaluru,Single-page website design with core functionality and contact form.,High
+1877,Advanced Tax Filing,retail,medium,both,remote,Comprehensive annual tax submission and financial planning.,Medium
+1878,Payroll Processing,restaurant,medium,regional,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1879,Digital Marketing Strategy,freelancer,medium,both,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1880,Financial Audit,retail,premium,english,remote,Independent annual financial statement verification and compliance check.,High
+1881,Contract Review,restaurant,premium,both,chennai,Legal review and drafting of standard client/vendor contracts and agreements.,Low
+1882,Payroll Processing,e-commerce,premium,english,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1883,Customer Support Setup,freelancer,high,hindi,delhi,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1884,Social Media Setup,freelancer,premium,both,bengaluru,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1885,Website Design (Basic),clinic,high,regional,remote,Single-page website design with core functionality and contact form.,Medium
+1886,Financial Audit,tech startup,premium,both,remote,Independent annual financial statement verification and compliance check.,Low
+1887,Payroll Processing,e-commerce,high,regional,bengaluru,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1888,Inventory Management,restaurant,premium,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1889,Website Design (Basic),freelancer,low,hindi,remote,Single-page website design with core functionality and contact form.,Medium
+1890,Social Media Setup,clinic,high,english,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1891,SEO Optimization,freelancer,medium,both,mumbai,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1892,Website Design (Basic),retail,premium,regional,remote,Single-page website design with core functionality and contact form.,Low
+1893,Contract Review,tech startup,medium,hindi,bengaluru,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1894,Basic Accounting,tech startup,high,both,remote,Simple monthly bookkeeping and tax preparation for tech startup.,High
+1895,Basic Accounting,clinic,medium,english,remote,Simple monthly bookkeeping and tax preparation for clinic.,Medium
+1896,Payroll Processing,e-commerce,premium,english,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1897,Social Media Setup,e-commerce,low,hindi,delhi,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1898,SEO Optimization,restaurant,medium,regional,mumbai,Advanced search engine ranking strategy and implementation for product visibility.,High
+1899,Financial Audit,retail,low,english,remote,Independent annual financial statement verification and compliance check.,Medium
+1900,Advanced Tax Filing,restaurant,medium,english,remote,Comprehensive annual tax submission and financial planning.,High
+1901,Payroll Processing,freelancer,premium,english,bengaluru,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1902,Customer Support Setup,retail,premium,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1903,Digital Marketing Strategy,e-commerce,low,regional,chennai,Development of a 6-month online marketing and advertisement plan.,Low
+1904,Financial Audit,e-commerce,low,both,bengaluru,Independent annual financial statement verification and compliance check.,High
+1905,Business Registration,restaurant,premium,hindi,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1906,Social Media Setup,retail,low,both,mumbai,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1907,Contract Review,freelancer,medium,hindi,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1908,Social Media Setup,clinic,low,hindi,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1909,Social Media Setup,clinic,high,hindi,chennai,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1910,Advanced Tax Filing,clinic,low,hindi,remote,Comprehensive annual tax submission and financial planning.,Medium
+1911,Payroll Processing,restaurant,medium,hindi,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1912,Digital Marketing Strategy,e-commerce,medium,hindi,remote,Development of a 6-month online marketing and advertisement plan.,High
+1913,Inventory Management,e-commerce,premium,both,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1914,Social Media Setup,freelancer,medium,regional,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1915,Inventory Management,clinic,premium,regional,bengaluru,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1916,Social Media Setup,tech startup,medium,regional,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1917,Basic Accounting,clinic,medium,english,remote,Simple monthly bookkeeping and tax preparation for clinic.,High
+1918,Basic Accounting,retail,low,regional,chennai,Simple monthly bookkeeping and tax preparation for retail.,Low
+1919,Payroll Processing,freelancer,high,hindi,chennai,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1920,Inventory Management,retail,premium,both,mumbai,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1921,Advanced Tax Filing,tech startup,low,both,remote,Comprehensive annual tax submission and financial planning.,Medium
+1922,Basic Accounting,restaurant,low,regional,bengaluru,Simple monthly bookkeeping and tax preparation for restaurant.,High
+1923,Customer Support Setup,e-commerce,premium,regional,bengaluru,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1924,SEO Optimization,freelancer,high,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,Low
+1925,Inventory Management,restaurant,low,hindi,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1926,Digital Marketing Strategy,restaurant,low,english,mumbai,Development of a 6-month online marketing and advertisement plan.,Medium
+1927,Customer Support Setup,clinic,medium,both,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1928,Social Media Setup,retail,low,regional,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1929,Website Design (Basic),freelancer,premium,both,remote,Single-page website design with core functionality and contact form.,Low
+1930,Social Media Setup,retail,high,regional,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1931,Contract Review,tech startup,medium,regional,remote,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1932,Financial Audit,tech startup,high,both,bengaluru,Independent annual financial statement verification and compliance check.,High
+1933,Business Registration,restaurant,medium,english,delhi,Complete guidance and filing for establishing a new business entity.,Medium
+1934,Digital Marketing Strategy,clinic,low,hindi,remote,Development of a 6-month online marketing and advertisement plan.,High
+1935,Website Design (Basic),clinic,premium,regional,remote,Single-page website design with core functionality and contact form.,Low
+1936,Basic Accounting,freelancer,low,hindi,mumbai,Simple monthly bookkeeping and tax preparation for freelancer.,Low
+1937,Website Design (Basic),clinic,low,english,remote,Single-page website design with core functionality and contact form.,Medium
+1938,Website Design (Basic),e-commerce,premium,regional,bengaluru,Single-page website design with core functionality and contact form.,High
+1939,SEO Optimization,retail,medium,english,mumbai,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1940,Advanced Tax Filing,restaurant,premium,both,chennai,Comprehensive annual tax submission and financial planning.,High
+1941,Basic Accounting,freelancer,low,hindi,chennai,Simple monthly bookkeeping and tax preparation for freelancer.,Low
+1942,Basic Accounting,clinic,premium,both,bengaluru,Simple monthly bookkeeping and tax preparation for clinic.,Low
+1943,Contract Review,tech startup,low,english,chennai,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1944,Payroll Processing,freelancer,premium,english,chennai,"Monthly employee salary calculation, disbursement, and compliance reporting.",Medium
+1945,Contract Review,clinic,premium,both,delhi,Legal review and drafting of standard client/vendor contracts and agreements.,Low
+1946,Basic Accounting,restaurant,medium,hindi,remote,Simple monthly bookkeeping and tax preparation for restaurant.,Low
+1947,Payroll Processing,restaurant,low,english,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1948,Inventory Management,restaurant,medium,regional,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Low
+1949,Digital Marketing Strategy,clinic,medium,both,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1950,Advanced Tax Filing,tech startup,medium,hindi,remote,Comprehensive annual tax submission and financial planning.,High
+1951,Contract Review,retail,premium,both,mumbai,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1952,Business Registration,freelancer,premium,regional,remote,Complete guidance and filing for establishing a new business entity.,Low
+1953,Financial Audit,clinic,premium,english,chennai,Independent annual financial statement verification and compliance check.,High
+1954,Inventory Management,freelancer,premium,english,chennai,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1955,Social Media Setup,tech startup,premium,hindi,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1956,Business Registration,e-commerce,premium,both,mumbai,Complete guidance and filing for establishing a new business entity.,Low
+1957,Digital Marketing Strategy,freelancer,low,both,remote,Development of a 6-month online marketing and advertisement plan.,High
+1958,Digital Marketing Strategy,e-commerce,high,hindi,remote,Development of a 6-month online marketing and advertisement plan.,Low
+1959,Social Media Setup,clinic,medium,both,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,High
+1960,Inventory Management,retail,high,both,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1961,Contract Review,retail,low,english,remote,Legal review and drafting of standard client/vendor contracts and agreements.,High
+1962,Customer Support Setup,tech startup,medium,both,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1963,Advanced Tax Filing,restaurant,low,regional,remote,Comprehensive annual tax submission and financial planning.,High
+1964,Payroll Processing,clinic,low,hindi,mumbai,"Monthly employee salary calculation, disbursement, and compliance reporting.",Low
+1965,Payroll Processing,tech startup,premium,hindi,remote,"Monthly employee salary calculation, disbursement, and compliance reporting.",High
+1966,Website Design (Basic),tech startup,high,hindi,chennai,Single-page website design with core functionality and contact form.,Medium
+1967,Inventory Management,freelancer,high,both,chennai,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1968,Website Design (Basic),e-commerce,low,regional,remote,Single-page website design with core functionality and contact form.,High
+1969,SEO Optimization,tech startup,high,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
+1970,Advanced Tax Filing,e-commerce,premium,regional,bengaluru,Comprehensive annual tax submission and financial planning.,Medium
+1971,Advanced Tax Filing,tech startup,medium,regional,remote,Comprehensive annual tax submission and financial planning.,Low
+1972,Financial Audit,e-commerce,premium,both,remote,Independent annual financial statement verification and compliance check.,High
+1973,Financial Audit,freelancer,high,regional,remote,Independent annual financial statement verification and compliance check.,High
+1974,Business Registration,tech startup,medium,english,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1975,Inventory Management,freelancer,high,both,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1976,Financial Audit,retail,medium,english,mumbai,Independent annual financial statement verification and compliance check.,Medium
+1977,Social Media Setup,restaurant,medium,english,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1978,Customer Support Setup,e-commerce,low,both,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Low
+1979,Digital Marketing Strategy,restaurant,high,hindi,delhi,Development of a 6-month online marketing and advertisement plan.,High
+1980,Financial Audit,retail,medium,regional,remote,Independent annual financial statement verification and compliance check.,Medium
+1981,Inventory Management,freelancer,low,english,remote,Full-stack cloud-based inventory tracking and supply chain integration for products.,Medium
+1982,Business Registration,e-commerce,low,english,mumbai,Complete guidance and filing for establishing a new business entity.,Medium
+1983,Business Registration,tech startup,medium,english,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1984,Advanced Tax Filing,restaurant,low,hindi,remote,Comprehensive annual tax submission and financial planning.,High
+1985,Financial Audit,retail,high,english,remote,Independent annual financial statement verification and compliance check.,High
+1986,Social Media Setup,freelancer,medium,hindi,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1987,Inventory Management,retail,low,both,chennai,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1988,Website Design (Basic),restaurant,medium,english,remote,Single-page website design with core functionality and contact form.,High
+1989,Inventory Management,retail,low,hindi,chennai,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+1990,Social Media Setup,clinic,medium,hindi,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Medium
+1991,Financial Audit,clinic,low,regional,mumbai,Independent annual financial statement verification and compliance check.,High
+1992,Customer Support Setup,restaurant,premium,regional,mumbai,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1993,Social Media Setup,tech startup,medium,regional,remote,Creation and optimization of initial social media profiles (Instagram/Facebook).,Low
+1994,Financial Audit,restaurant,medium,regional,bengaluru,Independent annual financial statement verification and compliance check.,High
+1995,Customer Support Setup,tech startup,medium,regional,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,High
+1996,Business Registration,retail,high,regional,remote,Complete guidance and filing for establishing a new business entity.,Medium
+1997,Customer Support Setup,retail,premium,hindi,remote,Implementation of a modern ticketing and customer relationship management system (CRM).,Medium
+1998,Contract Review,tech startup,premium,both,chennai,Legal review and drafting of standard client/vendor contracts and agreements.,Medium
+1999,Inventory Management,clinic,high,regional,delhi,Full-stack cloud-based inventory tracking and supply chain integration for products.,High
+2000,SEO Optimization,e-commerce,medium,hindi,remote,Advanced search engine ranking strategy and implementation for product visibility.,Medium
